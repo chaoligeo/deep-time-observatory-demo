@@ -1,0 +1,25 @@
+id,type,name,age_ma,min_age_ma,max_age_ma,latitude,longitude,locality,lithology,taxon_or_unit,reference
+1,fossil,Trilobite occurrence,510.5,508.0,513.0,39.9,116.4,North China Platform,Limestone,Redlichia,Demo sample
+2,fossil,Archaeocyathid reef,520.0,515.0,525.0,35.0,105.0,South China,Carbonate,Archaeocyatha,Demo sample
+3,fossil,Conodont biozone,480.2,478.0,482.0,42.0,-74.0,Appalachian Basin,Shale,Cordylodus,Demo sample
+4,fossil,Graptolite horizon,445.0,443.0,447.0,55.0,-3.0,Scotland,Black shale,Normalograptus,Demo sample
+5,fossil,Early fish,420.5,418.0,423.0,50.0,14.0,Czech Republic,Siliciclastic,Acanthodian,Demo sample
+6,fossil,Plant megafossil,385.0,380.0,390.0,40.0,-80.0,Appalachian,Sandstone,Archaeopteris,Demo sample
+7,fossil,Coal swamp flora,310.0,305.0,315.0,51.5,-0.1,UK,Coal,Lepidodendron,Demo sample
+8,fossil,Synapsid bone bed,255.0,252.0,258.0,32.0,119.0,South China,Red beds,Dicynodon,Demo sample
+9,fossil,Ammonite zone,190.0,188.0,192.0,46.0,6.0,France,Marl,Arietites,Demo sample
+10,fossil,Dinosaur trackway,150.0,145.0,155.0,38.0,-109.0,Colorado Plateau,Sandstone,Theropod,Demo sample
+11,fossil,Cretaceous fish,95.0,92.0,98.0,29.0,90.0,Tethyan,Limestone,Teleost,Demo sample
+12,fossil,K-Pg boundary clay,66.0,65.9,66.1,44.0,-103.0,Hell Creek,Claystone,Iridium anomaly,Demo sample
+13,fossil,Early mammal,55.0,52.0,58.0,41.0,-105.0,Bighorn Basin,Mudstone,Plesiadapis,Demo sample
+14,fossil,Miocene mammal,15.0,12.0,18.0,36.0,103.0,China,Fluvial,Hipparion,Demo sample
+15,event,Cambrian explosion,520.0,510.0,530.0,,,Global,,Biotic diversification,Demo
+16,event,Ordovician radiation,470.0,460.0,480.0,,,Global,,Marine diversification,Demo
+17,event,End-Ordovician extinction,445.0,443.0,446.0,,,Global,,Mass extinction,Demo
+18,event,Devonian plant radiation,390.0,380.0,400.0,,,Global,,Terrestrial expansion,Demo
+19,event,End-Permian extinction,252.0,251.5,252.5,,,Global,,Mass extinction,Demo
+20,event,End-Triassic extinction,201.4,201.0,202.0,,,Global,,Mass extinction,Demo
+21,event,K-Pg extinction,66.0,65.5,66.5,,,Global,,Mass extinction,Demo
+22,rock,Basalt flow,120.0,115.0,125.0,20.0,80.0,Deccan,Basalt,Flood basalt,Demo sample
+23,rock,Granite pluton,85.0,80.0,90.0,40.0,-105.0,Colorado,Granite,Intrusive,Demo sample
+24,rock,Evaporite sequence,230.0,225.0,235.0,30.0,50.0,Middle East,Evaporite,Sabkha,Demo sample
